@@ -3,7 +3,7 @@
 Simple Utility for Broadcasting AIMP
 ```
 
-[English](README.md) | [한국어](#) | [中文](README_CN.md)
+[English](README) | [한국어](#) | [中文](README_CN)
 
 ---
 
