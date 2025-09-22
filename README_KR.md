@@ -1,9 +1,10 @@
+[suba-readme-kr (1).md](https://github.com/user-attachments/files/22457138/suba-readme-kr.1.md)
 ```
 'suba
 Simple Utility for Broadcasting AIMP
 ```
 
-[English](README) | [한국어](#) | [中文](README_CN)
+[English](README.md) | [한국어](#) | [中文](README_CN.md)
 
 ---
 
