@@ -1,9 +1,9 @@
-[English](README) | [한국어](README_KR) | [中文](#)```
+```
 'suba
 Simple Utility for Broadcasting AIMP
 ```
 
-[English](README.md) | [한국어](README_KR.md) | [中文](#)
+[English](README) | [한국어](README_KR) | [中文](#)
 
 ---
 
