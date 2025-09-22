@@ -276,19 +276,8 @@ class Suba:
                 'large_image': self.config['large_image_key'],
                 'large_text': self.config.get('large_image_text', 'AIMP'),
                 'small_image': self.config['small_image_key'],
-                'small_text': 'made by red.py',
-                'buttons': [
-                    {
-                        'label': 'SUBA',
-                        'url': 'https://github.com/redlovespython/-suba'
-                    }
-                ]
+                'small_text': 'made by red.py'
             }
-            
-            # Debug output for images
-            if self.config.get('debug', False):
-                print(f"[DEBUG] Large image: {self.config['large_image_key']}")
-                print(f"[DEBUG] Small image: {self.config['small_image_key']}")
             
             # Note: Progress bar not available with window title method
             
