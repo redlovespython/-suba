@@ -1,4 +1,4 @@
-[suba-readme-kr (1).md](https://github.com/user-attachments/files/22457138/suba-readme-kr.1.md)
+[suba-readme-kr.md](https://github.com/user-attachments/files/22457138/suba-readme-kr.1.md)
 ```
 'suba
 Simple Utility for Broadcasting AIMP
